@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#first,#second{
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border: 5px solid pink;
+    border-radius: 8px;
+    padding: 5px;
+    text-align: center;
+}
