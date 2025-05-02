@@ -7,3 +7,8 @@ React is a java script library which is use for doing simply use java script usi
 React is essential for DOM manipulation.
 because in java script DOM manipulation is very tough. and handle it very simple way
 code optimization is next level.
+
+We have covered topics in this series.
+1.Introduction to React.
+2.Bundler in react.
+3.Deployment of react project.
