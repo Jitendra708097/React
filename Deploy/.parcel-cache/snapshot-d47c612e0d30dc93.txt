@@ -1,0 +1,18 @@
+17
+55C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist133906683539753583 1
+61C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\index.html133906552734267315 0
+60C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\ReadMe.md133906586460732180 0
+60C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\style.css133906498052376804 0
+68C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\package-lock.json133906499008251059 0
+57C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\JSX.js133906680307942189 0
+63C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\package.json133906502969438812 0
+60C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\Script.js133906547181897968 0
+74C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.2b757cb0.js133906683539561846 0
+78C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.2b757cb0.js.map133906683539753583 0
+75C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.3a01df49.css133906683539599220 0
+79C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.3a01df49.css.map133906683539753583 0
+74C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.d39be113.js133906552087051037 0
+78C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.d39be113.js.map133906552087419495 0
+74C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.e1b35641.js133906549726407948 0
+78C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\Deploy.e1b35641.js.map133906549726847271 0
+66C:\Users\jiten\OneDrive\Desktop\Nexus\React\Deploy\dist\index.html133906683538551567 0
